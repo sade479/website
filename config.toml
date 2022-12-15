@@ -12,7 +12,7 @@ avatar = 'avatar.jpg'
 
   # Green theme
   [params.style]
-  darkestColor = "#65a189"
+  darkestColor = "#1ea682"
   darkColor = "#212121"
   lightColor = "#ffffff"
   lightestColor = "#ffffff"
@@ -27,7 +27,7 @@ avatar = 'avatar.jpg'
   
   [[menu.main]]
     identifier = 'about'
-    name = 'About Me'
+    name = 'About'
     url = '/about'
     weight = -100
 

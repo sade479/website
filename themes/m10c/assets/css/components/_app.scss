@@ -47,11 +47,13 @@
   .app-container {
     max-width: 65rem;
     margin-left: 20rem;
+    //min-height: 95vh;
   }
 }
 
 .app-footer {
   background: $darkest-color;
+  //background-color: #11ffee00;
   text-align: center;
   position: fixed;
   bottom: 0;
