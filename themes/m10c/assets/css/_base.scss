@@ -57,3 +57,15 @@ pre {
 ::-moz-selection {
   background: rgba($light-color, .25);
 }
+
+.askella-default-logo{
+	font-size: 50px;
+	font-weight: 600;
+	color: $lightest-color;
+  &::first-letter{
+    color: $darkest-color;
+    background-color: $lightest-color;
+    padding-left: 0.3em;
+    padding-right: 0.02em;
+  }
+}
