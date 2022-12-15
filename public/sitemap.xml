@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://tanimpavel.com/about/</loc>
+    <lastmod>2022-12-12T12:51:06-05:00</lastmod>
+  </url><url>
+    <loc>http://tanimpavel.com/posts/first-test/</loc>
+    <lastmod>2022-12-12T12:48:26-05:00</lastmod>
+  </url><url>
+    <loc>http://tanimpavel.com/posts/</loc>
+    <lastmod>2022-12-12T12:48:26-05:00</lastmod>
+  </url><url>
+    <loc>http://tanimpavel.com/</loc>
+    <lastmod>2022-12-12T12:48:26-05:00</lastmod>
+  </url><url>
+    <loc>http://tanimpavel.com/categories/</loc>
+  </url><url>
+    <loc>http://tanimpavel.com/tags/</loc>
+  </url>
+</urlset>

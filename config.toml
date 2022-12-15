@@ -1,0 +1,32 @@
+baseURL = 'http://tanimpavel.com/'
+languageCode = 'en-us'
+title = 'Tanim Pavel'
+theme = 'm10c'
+avatar = 'avatar.jpg'
+
+[params]
+  author = "Tanim Pavel"
+  description = " "
+  menu_item_separator = " - "
+
+  # Green theme
+  [params.style]
+  darkestColor = "#65a189"
+  darkColor = "#212121"
+  lightColor = "#ffffff"
+  lightestColor = "#ffffff"
+  primaryColor = "#ffffff"
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = -110
+  
+  [[menu.main]]
+    identifier = 'about'
+    name = 'About Me'
+    url = '/about'
+    weight = -100
+
