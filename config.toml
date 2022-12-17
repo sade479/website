@@ -4,6 +4,9 @@ title = 'Tanim Pavel'
 theme = 'm10c'
 avatar = 'avatar.jpg'
 
+[permalinks]
+  posts = '/:title/'
+
 [params]
   author = "Tanim Pavel"
   description = " "
