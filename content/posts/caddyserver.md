@@ -32,6 +32,7 @@ The latest version of the following commands can be found {{< underline "https:/
 
 1. Install required dependencies for Caddy
 ```
+sudo apt update
 sudo apt install -y debian-keyring debian-archive-keyring apt-transport-https
 ```
 2. Install the signing key for Caddy
