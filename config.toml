@@ -13,7 +13,7 @@ avatar = 'avatar.jpg'
   menu_item_separator = " - "
   
 
-  # Green theme
+  # Green theme #1ea682 #115F4A
   [params.style]
   darkestColor = "#1ea682"
   darkColor = "#212121"
