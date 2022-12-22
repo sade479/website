@@ -85,7 +85,7 @@ After that, you will have to set up a username and password.
 
 ![setup screen for username and password](/images/adguard-password.png)
 
-Once that is done you will have completed the initial AdGuard Home set up. From there you will be prompted to login and after doing so you will be presented with the main dashboard.
+Once that is done you will have completed the initial AdGuard Home setup. From there you will be prompted to login and after doing so you will be presented with the main dashboard.
 
 ![main dashboard for adguard home](/images/adguard-dashboard.png)
 

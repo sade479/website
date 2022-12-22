@@ -21,11 +21,13 @@ Before we start this tutorial, It is important to mention why we need HTTPS in t
 
 Caddy is a modern web server written in the Go language. Its main claim to fame is the ease of setting up a web server with HTTPS.
 
-## Getting Started
+## Pre-requisites
 
 To begin this tutorial you will need a Linux server with SSH access running Ubuntu, Debian or any other Debian-based derivative (such as Raspbian for Raspberry PIs), if you do not have one you can easily order a cloud server from DigitalOcean for as little as $4 a month.
 
 In addition, you will also want to have a domain name.
+
+## Getting Started
 
 To get started you will need to run the following commands.
 The latest version of the following commands can be found {{< underline "https://caddyserver.com/docs/install#debian-ubuntu-raspbian" here >}}
