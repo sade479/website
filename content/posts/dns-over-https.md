@@ -4,7 +4,7 @@ date: 2023-01-01T10:40:03-05:00
 draft: false
 ---
 
-DNS over HTTPS is a protocol that encrypts your DNS (the protocol that converts domain names to ip addresses) requests which helps to mitigate ISP spying and bypass basic censorship. While this protocol has its benefits it can also rely on using centralized servers run by large companies such as Google and Cloudflare which you may not trust completely. In this tutorial, I will show you how to set up your own DNS over HTTPS server.
+DNS over HTTPS is a protocol that encrypts your DNS (the protocol that converts domain names to ip addresses) requests which can help to mitigate ISP spying and bypass basic censorship. While this protocol has its benefits it can also rely on using centralized servers run by large companies such as Google and Cloudflare which you may not trust completely. In this tutorial, I will show you how to set up your own DNS over HTTPS server.
 
 <!--more-->
 
