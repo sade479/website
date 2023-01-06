@@ -4,7 +4,7 @@ date: 2022-12-19T13:13:03-05:00
 draft: false
 ---
 
-The modern internet is full of ads and trackers that can slow your devices down and put your privacy at risk. Traditional browser-based ad blockers such as AdBlock Plus can get the job done within your browser but the rest of your network is unaffected. In this tutorial, I will show you how to install AdGuard Home a DNS-based adblocker on your home network.
+The modern internet is full of ads and trackers that can slow your devices down and put your privacy at risk. Traditional browser-based ad blockers such as AdBlock Plus can get the job done within your browser but non-browser-based apps and the rest of your network is unaffected. In this tutorial, I will show you how to install AdGuard Home a DNS-based adblocker on your home network.
 
 <!--more-->
 

@@ -1,4 +1,4 @@
-baseURL = 'http://tanimpavel.com/'
+baseURL = 'https://tanimpavel.com/'
 languageCode = 'en-us'
 title = 'Tanim Pavel'
 theme = 'm10c'
